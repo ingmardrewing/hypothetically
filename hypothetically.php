@@ -4,7 +4,6 @@ Plugin Name: Frugal Comic Plugin
 Version: 20170211
 */
 
-include 'lib/Hypothesis.php';
 include 'lib/Hypotheses.php';
 include 'lib/HypReader.php';
 include 'lib/HypCookie.php';
